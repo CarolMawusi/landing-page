@@ -3,7 +3,7 @@ The purpose of this project is to create something from scratch and the get vari
 
 ### Building a Landing Page
 This project focuses on the correct alignment of elements on the webpage.
-It is not responsive.
+Note: It is not responsive.
 
 
 
