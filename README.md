@@ -5,6 +5,8 @@ The purpose of this project is to create something from scratch and the get vari
 This project focuses on the correct alignment of elements on the webpage.
 Note: It is not responsive.
 
+### Credits
+Banner image:https://www.pexels.com/
 
 
 
