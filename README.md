@@ -6,7 +6,10 @@ This project focuses on the correct alignment of elements on the webpage.
 Note: It is not responsive.
 
 ### Credits
-Banner image:https://www.pexels.com/
+Banner image by Kindel Media via https://www.pexels.com/
+
+
+
 
 
 
